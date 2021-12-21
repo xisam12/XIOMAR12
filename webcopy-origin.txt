@@ -1,0 +1,24 @@
+Uri: https://nsfw.phantomcodes.ga/
+File Name: C:\Users\Omar\Desktop\nsfw.phantomcodes.ga\index.htm
+Content Type: text/html
+
+Uri: https://i.imgur.com/YDT4557.jpg
+File Name: C:\Users\Omar\Desktop\nsfw.phantomcodes.ga\YDT4557.jpg
+Content Type: image/jpeg
+
+Uri: https://nsfw.phantomcodes.ga/static/css/reset.css
+File Name: C:\Users\Omar\Desktop\nsfw.phantomcodes.ga\static\css\reset-1.css
+Content Type: text/css
+
+Uri: https://nsfw.phantomcodes.ga/static/css/style.css
+File Name: C:\Users\Omar\Desktop\nsfw.phantomcodes.ga\static\css\style-1.css
+Content Type: text/css
+
+Uri: https://nsfw.phantomcodes.ga/static/js/workspace.js
+File Name: C:\Users\Omar\Desktop\nsfw.phantomcodes.ga\static\js\workspace-1.js
+Content Type: application/javascript
+
+Uri: https://nsfw.phantomcodes.ga/static/music/konga.mp3
+File Name: C:\Users\Omar\Desktop\nsfw.phantomcodes.ga\static\music\konga-1.mp3
+Content Type: audio/mpeg
+
